@@ -11,6 +11,35 @@ Objetivos especificos:
 
 2. MARCO TEÓRICO
 
+1 Definiciones
+
+1,1 Circuitos Eléctricos
+ Los circuitos eléctricos son sistemas por donde puede circular una corriente eléctrica y este cuenta con componentes esenciales para que exista. Es necesario un medio por donde la corriente pueda fluir, como lo son los cables, una fuente de poder que suministre la corriente eléctrica y una carga a la que se le suministre energía. Para dicha corriente eléctrica, por convención y método de análisis, se le considera una dirección de la parte positiva de la fuente hacia la negativa ésta se reduce al cruzar por una carga dentro del circuito. Esta convención de dirección sólo es útil para propósito de análisis de circuitos eléctricos ya que en realidad ésta no se puede ver como tal sólo experimentar sus efectos.
+
+1,2 Nodos 
+Los nodos son aquellos puntos donde se pueden conectar dos o más elementos. 
+Es el punto de unión entre 3 o más ramas. La suma de las corrientes entrantes a un nodo debe ser igual a la suma de todas las corrientes salientes (Ley de Kirchoff de los nodos). 
+
+1,3 Lazos
+Es una trayectoria completa para la corriente.
+1,4 Ramas
+ Es la parte del circuito que se encuentra entre dos nodos. Por todos los componentes de una rama circula la misma corriente. 
+
+2 Ley de OHM
+La ley de Ohm describe matemáticamente la relación entre voltaje, corriente y resistencia en un circuito. La ley de Ohm se expresa en tres formas equivalentes según qué cantidad se requiera determinar. la corriente y el voltaje son linealmente proporcionales. Sin embargo, la corriente y la resistencia son inversamente proporcionales.
+
+![image](https://user-images.githubusercontent.com/117045943/200577342-e6f3df1d-de16-4835-a3f1-513dff93c93d.png)
+
+“La ley de Ohm establece que la tensión v a lo largo de un resistor es directamente
+proporcional a la corriente I que fluye a través del resistor.” (Alexander & Sadiku, 2006)
+
+
+3 leyes de Kirchhoff
+
+El físico alemán Gustav Kirchhoff describió en 1845 dos leyes que relacionan corrientes y diferencias de potencial en circuitos eléctricos. 
+1.a ley: La suma de las intensidades que se dirigen hacia un nodo es igual a la suma de las corrientes que abandonan dicho nodo (un nodo es el punto de confluencia de tres o más conductores). 
+2.a ley: La suma de las caídas de tensión o diferencias de potencial a lo largo de un circuito cerrado es nula.
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -60,3 +89,8 @@ Proceso para medir la corriente en thinkercard:
 5.Realizar el mantenimiento adecuado al protoboard y al multímetro, puesto que su mal estado puede afectar al laboratorio.
 
 7. BIBLIOGRAFÍA
+
+Juárez, A. R. R. Leyes de Kirchhoff.
+
+Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
+
