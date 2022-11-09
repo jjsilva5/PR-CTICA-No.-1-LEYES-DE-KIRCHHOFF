@@ -38,7 +38,7 @@ proporcional a la corriente I que fluye a través del resistor.” (Alexander & 
 
 El físico alemán Gustav Kirchhoff describió en 1845 dos leyes que relacionan corrientes y diferencias de potencial en circuitos eléctricos. 
 1.a ley: La suma de las intensidades que se dirigen hacia un nodo es igual a la suma de las corrientes que abandonan dicho nodo (un nodo es el punto de confluencia de tres o más conductores). 
-2.a ley: La suma de las caídas de tensión o diferencias de potencial a lo largo de un circuito cerrado es nula.
+2. La ley: La suma de las caídas de tensión o diferencias de potencial a lo largo de un circuito cerrado es nula.
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -55,6 +55,11 @@ Proceso para medir el voltaje en thinkercard:
 
 Proceso para medir la corriente en thinkercard:
 ![image](https://user-images.githubusercontent.com/117045943/200468173-a8d98dc9-009b-4eab-8408-ced1e86ff5c1.png)
+
+
+Circuito armado en fisico:
+
+![image](https://user-images.githubusercontent.com/117045943/200631115-17514c1d-9936-42a6-86d4-d7a439973efa.png)
 
 
 
