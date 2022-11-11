@@ -73,9 +73,19 @@ Circuito armado en fisico:
 ![image](https://user-images.githubusercontent.com/117045943/200464578-976f2215-ef6f-494c-b156-434107a4ccd4.png)
 
 4.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
-![image](https://user-images.githubusercontent.com/117045943/200477089-bcd43d90-5498-40ee-b747-a697cdf724e0.png)
+![image](https://user-images.githubusercontent.com/117045943/201235924-c523b4d6-1c1f-494d-8cf1-6a9a0058fd40.png)
 
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3. 
+
+![image](https://user-images.githubusercontent.com/117045943/201233874-f9b3e2d4-fa02-4362-81a6-62631fa8a217.png)
+
+
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
+
+Calcular errores de las mediciones y comentar los resultados.
+
+
 
 
 5. VIDEO
