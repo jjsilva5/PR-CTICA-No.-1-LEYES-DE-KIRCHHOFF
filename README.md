@@ -61,6 +61,28 @@ Circuito armado en fisico:
 
 ![image](https://user-images.githubusercontent.com/117045943/200631115-17514c1d-9936-42a6-86d4-d7a439973efa.png)
 
+![image](https://user-images.githubusercontent.com/117045943/201252761-db7f9409-dba8-424f-a490-9fd8529bc3e7.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201252793-17be93eb-6c91-4f10-9ac3-d1e16e7f3ce4.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201252845-3d9dfe9a-7ac1-4b2f-96a4-69a6596d6d93.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201252876-09c5795a-6755-4d41-8a4a-6f5cacef5e60.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201252971-b63f9129-ba15-4c89-89e4-a941990e09e4.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253028-e573bac3-2b69-4426-bc74-f945134b1380.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253062-3070a6bc-f9f2-4e39-901e-1c91c303a640.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253085-55688659-4b7e-4ebf-9980-a3ab3ca9e74c.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253113-5118ac48-9dc4-40f9-97fd-bdd777f1618e.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253141-1db5d144-3851-4941-a725-599d5aca55cb.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201253167-4571c58e-4ba9-4e4d-b48f-22cf61df0943.png)
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
@@ -77,18 +99,19 @@ Circuito armado en fisico:
 
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3. 
 
-![image](https://user-images.githubusercontent.com/117045943/201233874-f9b3e2d4-fa02-4362-81a6-62631fa8a217.png)
+![image](https://user-images.githubusercontent.com/117045943/201252679-e7e892bb-d8db-4c5b-b553-bc977c88f56f.png)
 
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
-Calcular errores de las mediciones y comentar los resultados.
+Calcular errores de las mediciones y comentar los resultados
 
-
-
+Hemos verificado que las leyes kirchoff, "La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen de dicho nodo"
 
 5. VIDEO
+
+
 
 6. CONCLUSIONES:
 
