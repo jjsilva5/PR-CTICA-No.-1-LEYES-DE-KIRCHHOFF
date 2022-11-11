@@ -83,6 +83,19 @@ Circuito armado en fisico:
 
 ![image](https://user-images.githubusercontent.com/117045943/201253167-4571c58e-4ba9-4e4d-b48f-22cf61df0943.png)
 
+![image](https://user-images.githubusercontent.com/117045943/201357819-2fe23178-ec48-4d8f-918f-31eadb4ec543.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201357881-102041aa-72da-453b-a4f5-c8033b302d78.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201357911-62bb1a2e-73d4-4831-bb41-a7c09914747d.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201358023-eac0bf4e-0dfa-44f6-825e-8af1386d4690.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201358067-6ccf6c6a-bf3a-436d-b5e8-bcae71434846.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201358099-4b30b94c-2acb-4d8a-8279-65f706906bfe.png)
+
+![image](https://user-images.githubusercontent.com/117045943/201358247-30c8354e-8326-4d2a-b7f9-4c06ebdbac2f.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
@@ -111,7 +124,7 @@ Hemos verificado que las leyes kirchoff, "La suma de las corrientes que entran a
 
 5. VIDEO
 
-
+https://drive.google.com/file/d/1niAhT63tly907fZRNHUpCI2-Be_QJ5zU/view
 
 6. CONCLUSIONES:
 
