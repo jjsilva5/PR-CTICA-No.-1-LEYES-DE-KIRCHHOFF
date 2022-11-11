@@ -1,4 +1,12 @@
 # PRACTICA-No.-1-LEYES-DE-KIRCHHOFF
+Integrantes:
+
+Jose Joaquin Silva Escobar
+
+Pamela Elizabeth Montatixe Almachi
+
+Mauricio Joseph Taco Cabrera
+
 1. OBJETIVOS
 
 Objetivo general:
